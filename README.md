@@ -19,8 +19,7 @@ Here you’ll find small web apps, automation scripts, and code experiments.
 
 ## 🚀 Projects & Experiments
 
-- [Interactive Friends List](https://github.com/greatfriendship/friends-list) – Web app to add and manage friends locally.  
-- [Automation Scripts](https://github.com/greatfriendship) – Collection of personal scripts and experiments.  
+- [Interactive Friends List](https://greatfriendship.github.io/) – Web app to add and manage friends locally.  
 
 > ⚠️ All projects here are for **learning and testing purposes**.  
 
