@@ -25,10 +25,4 @@ Here you’ll find small web apps, automation scripts, and code experiments.
 
 ---
 
-## 📈 GitHub Stats
-
-![greatfriendship's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatfriendship&show_icons=true&theme=radical)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
