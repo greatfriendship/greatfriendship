@@ -17,12 +17,4 @@ Here you’ll find small web apps, automation scripts, and code experiments.
 
 ---
 
-## 🚀 Projects & Experiments
-
-- [Interactive Friends List](https://greatfriendship.github.io/) – Web app to add and manage friends locally.  
-
-> ⚠️ All projects here are for **learning and testing purposes**.  
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
