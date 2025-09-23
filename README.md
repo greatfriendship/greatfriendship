@@ -17,4 +17,4 @@ Here you’ll find small web apps, automation scripts, and code experiments.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
